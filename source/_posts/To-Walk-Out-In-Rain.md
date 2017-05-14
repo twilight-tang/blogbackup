@@ -4,7 +4,6 @@ date: 2017-05-09 15:37:38
 tags: 
 - Tang
 - poem
-
 ---
 
 To walk out in rain
